@@ -40,3 +40,5 @@ chmod 770 /adm
 chmod 770 /ven
 chmod 770 /sec
 chmod 777 /publico
+
+echo "Configuração concluída com sucesso!"
